@@ -1,4 +1,0 @@
-- name: update the system
-    yum:
-      name: "*"
-      state: latest
